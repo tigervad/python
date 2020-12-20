@@ -1,4 +1,4 @@
-data
+Python
 ====
 
-data science related code
+this repository has python samples
